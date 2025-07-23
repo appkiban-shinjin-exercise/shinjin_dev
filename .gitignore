@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+.env
+*.log
+db.sqlite3
+*.sql
+.vscode/
+.idea/
+Dockerfile
+docker-compose.yml
+nginx/

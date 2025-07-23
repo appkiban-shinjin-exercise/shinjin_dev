@@ -1,0 +1,1 @@
+from .customer_info_inquiry_view import CustomerInfoInquiryVew
